@@ -1,0 +1,6 @@
+{
+  "timestamp": "2022-04-06T19:34:23.602+00:00",
+  "status": 415,
+  "error": "Unsupported Media Type",
+  "path": "/updateReceipt"
+}

@@ -1,0 +1,6 @@
+{
+  "timestamp": "2022-04-06T19:33:37.409+00:00",
+  "status": 415,
+  "error": "Unsupported Media Type",
+  "path": "/createReceipt"
+}

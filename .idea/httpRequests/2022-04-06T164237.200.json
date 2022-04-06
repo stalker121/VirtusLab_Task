@@ -1,0 +1,33 @@
+{
+  "entries": [
+    {
+      "product": {
+        "name": "Milk",
+        "type": "DAIRY",
+        "price": 2.7
+      },
+      "quantity": 2,
+      "totalPrice": 5.4
+    },
+    {
+      "product": {
+        "name": "Bread",
+        "type": "GRAINS",
+        "price": 5
+      },
+      "quantity": 1,
+      "totalPrice": 5
+    },
+    {
+      "product": {
+        "name": "Apple",
+        "type": "FRUITS",
+        "price": 2
+      },
+      "quantity": 1,
+      "totalPrice": 2
+    }
+  ],
+  "discounts": [],
+  "totalPrice": 12.4
+}

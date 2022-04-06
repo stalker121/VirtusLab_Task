@@ -1,0 +1,162 @@
+POST http://localhost:8080/createReceipt
+
+<> 2022-04-06T224747.415.json
+
+###
+
+GET http://localhost:8080/receipt
+
+<> 2022-04-06T224722.200.json
+
+###
+
+GET http://localhost:8080/receipt
+
+<> 2022-04-06T224638.200.json
+
+###
+
+GET http://localhost:8080/receipt
+
+<> 2022-04-06T224546.200.json
+
+###
+
+POST http://localhost:8080/updateReceipt
+
+<> 2022-04-06T224528.415.json
+
+###
+
+POST http://localhost:8080/updateReceipt
+
+<> 2022-04-06T213423.415.json
+
+###
+
+POST http://localhost:8080/updateReceipt
+
+<> 2022-04-06T213420.415.json
+
+###
+
+POST http://localhost:8080/createReceipt
+
+<> 2022-04-06T213407.415.json
+
+###
+
+POST http://localhost:8080/createReceipt
+
+<> 2022-04-06T213337.415.json
+
+###
+
+POST http://localhost:8080/createReceipt
+
+<> 2022-04-06T213247.415.json
+
+###
+
+POST http://localhost:8080/greeting
+
+<> 2022-04-06T212651.405.json
+
+###
+
+POST http://localhost:8080/greeting
+
+<> 2022-04-06T212626.405.json
+
+###
+
+GET http://localhost:8080/greeting
+
+<> 2022-04-06T212452-4.200.json
+
+###
+
+GET http://localhost:8080/greeting
+
+<> 2022-04-06T212452-3.200.json
+
+###
+
+GET http://localhost:8080/greeting
+
+<> 2022-04-06T212452-2.200.json
+
+###
+
+GET http://localhost:8080/greeting
+
+<> 2022-04-06T212452-1.200.json
+
+###
+
+GET http://localhost:8080/greeting
+
+<> 2022-04-06T212452.200.json
+
+###
+
+GET http://localhost:8080/greeting
+
+<> 2022-04-06T212451-2.200.json
+
+###
+
+GET http://localhost:8080/greeting
+
+<> 2022-04-06T212451-1.200.json
+
+###
+
+GET http://localhost:8080/greeting
+
+<> 2022-04-06T212451.200.json
+
+###
+
+GET http://localhost:8080/greeting
+
+<> 2022-04-06T165103.200.json
+
+###
+
+GET http://localhost:8080/greeting
+
+<> 2022-04-06T164310.200.json
+
+###
+
+GET http://localhost:8080/greeting
+
+<> 2022-04-06T164240.200.json
+
+###
+
+GET http://localhost:8080/greeting
+
+<> 2022-04-06T164237.200.json
+
+###
+
+GET http://localhost:8080/greeting
+
+<> 2022-04-06T161908.200.json
+
+###
+
+GET http://localhost:8080/greeting
+
+<> 2022-04-06T161851.200.json
+
+###
+
+GET http://localhost:8080/greeting
+
+<> 2022-04-06T161821.200.json
+
+###
+
